@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#ONBA1305-35] Useful Information: Actual Currency Exchange Rate default view, RBA</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.ithillel.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [ONBA1305-35]&nbsp;<a href="https://jira.ithillel.com/browse/ONBA1305-35">Useful Information: Actual Currency Exchange Rate default view, RBA</a>
+            <span class="subText">
+               Created: 28/May/21                   &nbsp;Updated: 30/May/21
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.ithillel.com/secure/BrowseProject.jspa?id=10181">BA_2021_05_13</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="t.khamardiuk" id="word_reporter_t.khamardiuk" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=t.khamardiuk">Taras Khamardiuk</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="t.khamardiuk" id="word_assignee_t.khamardiuk" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=t.khamardiuk">Taras Khamardiuk</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-22900-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Currency-rate, RBA, ROMA                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.ithillel.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="JPEG File">
+                    RBA_Screen 1_Login.jpg &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue Links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://jira.ithillel.com/browse/ONBA1305-36">
+                     ONBA1305-36                 </a>
+            </td>
+            <td>
+                Useful Information: Actual Currency E...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://jira.ithillel.com/browse/ONBA1305-39">
+                     ONBA1305-39                 </a>
+            </td>
+            <td>
+                Useful Information: Actual Currency E...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://jira.ithillel.com/browse/ONBA1305-34">
+                     ONBA1305-34                 </a>
+            </td>
+            <td>
+                Useful information for the user of ap...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10102-22900-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-5" href="https://jira.ithillel.com/browse/ONBA1305-34">
+        MobBankApp: Informational Support
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10101-22900-value" class="value" bgcolor="#ffffff" width="80%">Доска Sprint 1</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
+                <td id="customfield_10106-22900-value" class="value" bgcolor="#ffffff" width="80%">    8
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Context:</b> User goes out of our app to find exchange rates as currently "Application" does not display them so to keep User focus/attention in the "Application", it was a decision to introduce "New Screen" with exchange rates</p>
+
+<p><b>Requirement:</b></p>
+
+<p>As a bank customer, I want to be able to find out the current exchange rates right in the application so not to waste time looking for similar information on other resources.<br/>
+ ++++<br/>
+ A user shall be able to familiarize him/herself with the actual exchange rates right in the Application (TBD).<br/>
+ FR_5.1: Provide current up-to-date exchange rates.</p>
+
+<p><b>Acceptance criteria:</b></p>
+<ol>
+	<li>Add "exchange rates" menu item</li>
+	<li>Navigate User to "exchange rates" screen when "exchange rates" menu item is pressed
+	<ol>
+		<li>"exchange rates" screen consist of
+		<ol>
+			<li>UI element 1</li>
+			<li>UI element 2</li>
+			<li>...</li>
+		</ol>
+		</li>
+	</ol>
+	</li>
+</ol>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-12516"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="t.khamardiuk" id="word_commented_t.khamardiuk" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=t.khamardiuk">Taras Khamardiuk</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/May/21</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-12516"><td bgcolor="#ffffff">
+            <p>A user shall be able to familiarize him/herself with the actual exchange rates right in the Application (TBD).</p>
+        </td></tr>
+                <tr id="comment-header-12518"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="mykhailo.sheludiakov" id="word_commented_mykhailo.sheludiakov" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=mykhailo.sheludiakov">Mykhailo Sheludiakov</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/May/21</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-12518"><td bgcolor="#ffffff">
+            <p><a href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=t.khamardiuk" class="user-hover" rel="t.khamardiuk">Taras Khamardiuk</a> please add details "A user shall be able to familiarize him/herself with the actual exchange rates right in the Application (TBD).", what is the starting point?<br/>
+what UI elements should be added?<br/>
+what is new screen look?</p>
+        </td></tr>
+                <tr id="comment-header-12519"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="t.khamardiuk" id="word_commented_t.khamardiuk" href="https://jira.ithillel.com/secure/ViewProfile.jspa?name=t.khamardiuk">Taras Khamardiuk</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">28/May/21</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-12519"><td bgcolor="#ffffff">
+            <p> <span class="image-wrap" style=""><a id="16718_thumb" href="https://jira.ithillel.com/secure/attachment/16718/16718_RBA_Screen+1_Login.jpg" title="RBA_Screen 1_Login.jpg" file-preview-type="image" file-preview-id="16718" file-preview-title="RBA_Screen 1_Login.jpg"><img src="https://jira.ithillel.com/secure/thumbnail/16718/_thumb_16718.png" style="border: 0px solid black" /></a></span> <br/>
+@Mykhailo Sheludiakov, please see the attached mock screen describing more or less the initial intention with the preliminary allocation of the currency exchange rates option within the App...</p>
+        </td></tr>
+            </table>
+Generated at Sun May 30 21:49:27 EEST 2021 by Taras Khamardiuk using Jira 8.5.6#805006-sha1:4c63febd564848d8fbba7974be021da2081c1856.
+
+</body>
+</html>
