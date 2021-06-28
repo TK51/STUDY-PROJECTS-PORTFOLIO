@@ -255,10 +255,17 @@ hr.fullcontent
 
                         <tr>
                 <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+<<<<<<< HEAD
                 <td id="customfield_10102-22908-value" class="value" bgcolor="#ffffff" width="80%">
     <a class="aui-label ghx-label-5" href="https://jira.ithillel.com/browse/ONBA1305-34">
         MobBankApp: Informational Support
     </a>
+=======
+                <td id="customfield_10102-22908-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-5" href="https://jira.ithillel.com/browse/ONBA1305-34">
+        MobBankApp: Informational Support
+    </a>
+>>>>>>> 9e15f718da53da0d10e9643268caf7085e76c058
 </td>
             </tr>
                                 <tr>
